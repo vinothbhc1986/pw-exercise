@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "category": {
+    "id": 0,
+    "name": ""
+  },
+  "name": "Mizi",
+  "photoUrls": [],
+  "tags": [],
+  "status": 200,
+  "statusText": "OK"
+}

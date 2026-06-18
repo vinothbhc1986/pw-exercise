@@ -1,0 +1,10 @@
+{
+  "apis": {
+    "petstore": {
+      "version": "2",
+      "openapiSource": "https://petstore.swagger.io/v2/swagger.json",
+      "baseUrl": "https://petstore.swagger.io/v2",
+      "schemaType": "openapi"
+    }
+  }
+}

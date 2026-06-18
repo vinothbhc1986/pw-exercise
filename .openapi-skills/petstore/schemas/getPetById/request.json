@@ -1,0 +1,9 @@
+{
+  "parameters": [
+    {
+      "name": "petId",
+      "in": "path",
+      "value": 10
+    }
+  ]
+}
